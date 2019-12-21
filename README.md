@@ -1,3 +1,5 @@
+![Actions Status](https://github.com/skmatz/apog/workflows/python-package/badge.svg)
+
 # APOG
 
 Argparse Logger for Python
