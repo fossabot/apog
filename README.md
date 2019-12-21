@@ -7,3 +7,19 @@ Argparse Logger for Python
 ```sh
 pip install git+https://github.com/skmatz/apog.git
 ```
+
+## Usage
+
+```python
+import argparse
+from apog import Apog
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--xxx")
+parser.add_argument("--yyy")
+parser.add_argument("--zzz")
+args = parser.parse_args()
+
+apog = Apog(path="apog.csv")
+apog.write(args)
+```
