@@ -1,4 +1,5 @@
 [![Actions Status](https://github.com/skmatz/apog/workflows/python-package/badge.svg)](https://github.com/skmatz/apog/actions?query=workflow%3Apython-package)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskmatz%2Fapog.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskmatz%2Fapog?ref=badge_shield)
 
 # APOG
 
@@ -25,3 +26,7 @@ args = parser.parse_args()
 apog = Apog(path="apog.csv")
 apog.write(args)
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskmatz%2Fapog.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskmatz%2Fapog?ref=badge_large)
