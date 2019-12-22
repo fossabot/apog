@@ -1,4 +1,4 @@
-![Actions Status](https://github.com/skmatz/apog/workflows/python-package/badge.svg)
+[![Actions Status](https://github.com/skmatz/apog/workflows/python-package/badge.svg)](https://github.com/skmatz/apog/actions?query=workflow%3Apython-package)
 
 # APOG
 
